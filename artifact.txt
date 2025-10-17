@@ -1,0 +1,13 @@
+gw ingin anda membuatkan kode ipynb nya dong ini btw saya ingin mengunakan 2 data set sebenar nya sudah punya tahapan nya urtanya tapi
+mungkin bisa anda evaluasi agar hasinya bisa masuk ke Q1 scopus dong  ini akan saya seend step nya dong
+
+ENOW_INDUSTI (analisis view makro) berada di D:\FOMO ML\ports\ENOW_Industries\ENOW_Industries_2005_2021.csv contoh data nya ini
+GeoID,GeoName,GeoScale,Year,OceanSector,OceanSect_ID,OceanIndustry,OceanInd_ID,Establishments,Employment,Wages,GDP,RealGDP,,,,
+0,Coastal USA,National,2005,Marine Construction,1,Marine Related Construction,1,3213,48015,2481464465,5294865247,6381843006,,,,
+0,Coastal USA,National,2006,Marine Construction,1,Marine Related Construction,1,3292,50689,2801112935,5727785668,6323645014,,,,
+
+ENOW_SECTOR (analiss view mikro) berada di D:\FOMO ML\ports\ENOW_Sectors\ENOW_Sectors_2005_2022.csv contoh data nya ini
+GeoId,GeoName,GeoScale,StateAbbrv,OceanSect_Id,OceanSector,Year,Establishments,Employment,Wages,GDP,RealGDP
+51001,"Accomack, VA",County,VA,1,Marine Construction,2005,5,13,264414,525951,633253
+51001,"Accomack, VA",County,VA,2,Living Resources,2005,16,223,4507169,30227859,38399430
+
